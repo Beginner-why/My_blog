@@ -13,17 +13,16 @@ Django1.10.2
 •数据库：Mysql5.7                                                                                                                       
 
 
-安装项目所需依赖包
+安装项目所需依赖包                                                                                                                       
+pip install django==1.10.2                                                                                                               
+pip install pymysql==0.8.0                                                                                                               
+pip install django-tinymce==2.8.0                                                                                                       
+pip install six==1.12.0                                                                                                                 
+pip install pillow==6.2.1                                                                                                               
+                                                                                                                                      
+#连接mysql数据库                                                                                                                         
 
-pip install django==1.10.2
-pip install pymysql==0.8.0
-pip install django-tinymce==2.8.0
-pip install six==1.12.0
-pip install pillow==6.2.1
-
-连接mysql数据库
-
-DATABASES = {
+DATABASES = {                                                                                                                           
 'default': {
     'ENGINE': 'django.db.backends.mysql',
     'NAME': 'blogdb',  # 数据库名
