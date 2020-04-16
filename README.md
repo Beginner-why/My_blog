@@ -1,9 +1,9 @@
-# 博客
-基于Django开发的博客
-博客地址：www.wfreeagle.com
-
-
-开发环境
+# 博客                                                                                                                                   
+基于Django开发的博客                                                                                                                     
+博客地址：www.wfreeagle.com                                                                                                             
+                                                                                                                                        
+                                                                                                                                         
+开发环境                                                                                                                                 
 •开发工具:Pycharm
 
 •开发环境为:
