@@ -23,15 +23,15 @@ pip install pillow==6.2.1
 #连接mysql数据库                                                                                                                         
 
 DATABASES = {                                                                                                                           
-'default': {
-    'ENGINE': 'django.db.backends.mysql',
-    'NAME': 'blogdb',  # 数据库名
-    'USER': 'root',  # 用户名
-    'PASSWORD': '',  # 密码
-    'HOST': '',  # 主机IP
-    'PORT': '',  # 端口
-  }
-}
+'default': {                                                                                                                             
+    'ENGINE': 'django.db.backends.mysql',                                                                                               
+    'NAME': 'blogdb',  # 数据库名                                                                                                       
+    'USER': 'root',  # 用户名                                                                                                           
+    'PASSWORD': '',  # 密码                                                                                                             
+    'HOST': '',  # 主机IP                                                                                                               
+    'PORT': '',  # 端口                                                                                                                 
+  }                                                                                                                                     
+}                                                                                                                                       
 
 
 
