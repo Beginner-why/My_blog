@@ -5,12 +5,12 @@
                                                                                                                                          
 开发环境                                                                                                                                 
 •开发工具:Pycharm
-
-•开发环境为:
-Windows10
-Python3.7.2
-Django1.10.2
-•数据库：Mysql5.7
+                                                                                                                                         
+•开发环境为:                                                                                                                             
+Windows10                                                                                                                               
+Python3.7.2                                                                                                                             
+Django1.10.2                                                                                                                             
+•数据库：Mysql5.7                                                                                                                       
 
 
 安装项目所需依赖包
